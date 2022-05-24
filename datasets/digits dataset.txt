@@ -1,0 +1,2 @@
+# get the data and split it for training and test datasets
+(train_x, train_y), (test_x, test_y) = tf.keras.datasets.mnist.load_data()
