@@ -5,7 +5,8 @@ use command pip to install the rest of the packages
 give path in command propmt, then type jupyter notebook and give enter
 open jupyter notebook in the path where you have stored the project file
 
-download the dataset for characters
+download the dataset for characters and store it in the datasets file, give the path in the code
+import digits dataset from keras
 give the right path in the main files
 run the main file to train your model, or use the presaved models(give path)
 run the model file to execute the prediction
