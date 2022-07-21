@@ -2,10 +2,10 @@ in command prompt
 install pip and all the necessary libraries
 use command pip to install the rest of the packages
 
-give path in command propmt, then type jupyter notebook and give enter
-open jupyter notebook in the path where you have stored the project file
+give path (change directory to the folder where you want to save your code files) in command propmt, then type jupyter notebook and give enter (notebook will open in browser)
+i.e., open jupyter notebook in the path where you have stored the project file
 
-download the dataset for characters and store it in the datasets file, give the path in the code
+download the dataset for characters (kaggle handwritten dataset) and store it in the datasets file, give the path in the code
 import digits dataset from keras
 give the right path in the main files
 run the main file to train your model, or use the presaved models(give path)
@@ -19,6 +19,6 @@ and for characters, the input is changed in the code,
 - draw a character in ms paint and save the file.
 - give the file name in the code (4th section of the model file for characters)
 
-note: my settings for screenshot size is that it will screenshot the top left of the screen.
+note: my settings for screenshot size : top left corner of the screen.
 
  
